@@ -18,3 +18,5 @@ docker run -it --name pingdom-environment \
            adrianriobo/pingdom-environmet:0.1
 
 kind create cluster
+
+kind delete cluster
