@@ -1,6 +1,6 @@
 # pingdom-environmet
 
-[![Docker build](https://img.shields.io/docker/cloud/build/adrianriobo/pingdom-environment?label=build&logo=docker)](https://hub.docker.com/r/adrianriobo/pingdom-environment/builds)
+[![Docker build](https://img.shields.io/docker/cloud/build/adrianriobo/pingdom-environmet?label=build&logo=docker)](https://hub.docker.com/r/adrianriobo/pingdom-environmet/builds)
 
 # Components
 
