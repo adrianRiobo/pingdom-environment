@@ -1,5 +1,6 @@
 # pingdom-environmet
-Basic environment to develop a k8s operator in go
+
+[![Docker build](https://img.shields.io/docker/cloud/build/adrianriobo/pingdom-environment?label=build&logo=docker)](https://hub.docker.com/r/adrianriobo/pingdom-environment/builds)
 
 # Components
 
